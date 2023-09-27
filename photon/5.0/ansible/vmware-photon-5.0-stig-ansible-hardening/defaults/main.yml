@@ -188,7 +188,7 @@ run_kernel_net_log_martians: true
 # PHTN-50-000229
 run_kernel_net_rp_filter: true
 # PHTN-50-000231
-run_kernel_net_ip_forward: true
+run_kernel_net_ip_forward: false
 # PHTN-50-000232
 run_kernel_net_tcp_timestamps: true
 # PHTN-50-000233
